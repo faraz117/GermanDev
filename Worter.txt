@@ -53,3 +53,4 @@ abschict
 gesichte 
 geschict 
 geschikt
+aufmerksamkeit = Attention
