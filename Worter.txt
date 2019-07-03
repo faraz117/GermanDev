@@ -54,3 +54,6 @@ gesichte
 geschict 
 geschikt
 aufmerksamkeit = Attention
+Atmung
+Hinweise = Hint
+Zuweisen = To Assign
