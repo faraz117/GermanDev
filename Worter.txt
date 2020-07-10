@@ -57,3 +57,5 @@ aufmerksamkeit = Attention
 Atmung
 Hinweise = Hint
 Zuweisen = To Assign
+Einspruch
+Anspruch
